@@ -1,0 +1,13 @@
+SOLID
+
+SRP (s) = Single Responsability Principle
+            Toda classe deve partir do ponto de ter apenas uma responsabilidade
+OCP (o) = Open-closed Principle
+            Toda classe deve ser aberta para extensão e fechada para modificação
+LSP (l) = Liskov Substitution Principle
+            Subclasses podem ser substituidas pelas suas classes pai
+ISP (i) = Interface Segregation Principle
+            Uma classe ela não é obrigada a implementar interfaces que ela não utilizará
+DIP (d) = Dependency Inversion Principle
+            Dependa de abstrações e não de implementações
+
